@@ -5,3 +5,6 @@ XML files that follow the style of label they use with the DYMO Label printer.
 
 This process used to consume an entire work day or more for multiple employees. Now it only requires one
 employee to run the program to generate every label in seconds.
+
+No sample excel file is provided in this repository as the inventory data should remain private to the
+company.
